@@ -43,6 +43,7 @@ A collection of command line utilities that make terminal life easier.
 - [gh](https://github.com/cli/cli) - GitHub CLI
 - [tokei](https://github.com/XAMPPRocky/tokei) - Code statistics
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Benchmarking
+- [flisk](https://github.com/flisk-sh/flisk) - Generate and run a full stack from an empty folder in one command
 
 ## System
 
