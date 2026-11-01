@@ -35,6 +35,7 @@ A collection of command line utilities that make terminal life easier.
 - [dog](https://github.com/ogham/dog) - DNS client
 - [bandwhich](https://github.com/imsnif/bandwhich) - Bandwidth monitor
 - [gping](https://github.com/orf/gping) - Ping with graph
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) - macOS network diagnostics, per-app traffic and JSON output, with a TUI and local MCP server
 
 ## Development
 
